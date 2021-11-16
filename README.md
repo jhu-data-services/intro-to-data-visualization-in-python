@@ -1,6 +1,10 @@
-# Workshop Name
-[description]
+# Introduction to Data Visualization in Python: Matplotlib and Seaborn
+This intermediate level workshop will introduce you to data visualization in Python using the Matplotlib and Seaborn libraries. Participants in this interactive class will write Python code in Jupyter Notebooks to visualize a prepared dataset using both the Matplotlib and Seaborn libraries. By the end of this workshop, participants will be able to:  
+- Understand different plotting libraries in Python, and which is appropriate when.
+- Understand difference between pyplot imperative syntax (state-based interface) and Object-Oriented syntax.
+- Be able to perform a simple visualization using provided data in both Matplotlib and Seaborn.
 
+Prerequisites: Participants should be familiar with basic programming concepts, including variable assignment, data types, function calls, and installing packages or libraries. Introductory experience in Python or R will be especially helpful for this workshop.   
 
 ## JHU Data Services   
 Website: [dataservices.library.jhu.edu/](https://dataservices.library.jhu.edu/)   
@@ -13,31 +17,28 @@ As of March 2020, Data Services workshops are being held virtually on Zoom. [See
 
 
 ## Pre-Class Instructions
-Before the class, follow the [installation instructions to download all required software and tools for this workshop](link-to-github-installation-repo).
+Before the class, follow the [Python Installation Instructions](https://github.com/jhu-data-services/python-installation-instructions) to download Anaconda and Jupyter Notebooks onto your computer. Use our [Jupyter Notebook Tutorial](https://github.com/jhu-data-services/python-installation-instructions/tree/main/jupyter-notebook-tutorial) to learn the basics of opening and running Jupyter Notebooks. You can [view the Jupyter Notebook Tutorial online here](https://nbviewer.org/github/jhu-data-services/python-installation-instructions/blob/main/jupyter-notebook-tutorial/JupyterNotebookTutorial.ipynb).   
 
 
 ## Description of Files
 - Data: This folder contains raw data files to be used during hands-on activities in the workshop
-- In-ClassScripts: This folder contains code files you will need for the workshop:
-    - [file1]
-    - [file2]
-    - [file3]
-- PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop
-- Resources: This folder contains cheatsheets to assist you during the workshop and links to external sources for you to continue your learning
+- In-ClassScripts: This folder contains Jupyter Notebook file you will need for the workshop:
+    - DataWranglingPandas_StudentVersion.ipynb
+    - Images folder - contains images that are used in the Juptyer Notebook  
 
 
 ## Post-Class Survey
-If you have taken the live webinar for this class, please take this survey: [link name](url)
+If you have taken the live webinar for this class, please take this survey: [https://www.surveymonkey.com/r/python-data-vis](https://www.surveymonkey.com/r/python-data-vis)
 
 
 ## License and Terms of Use
-The presentation materials are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/), attributable to [Data Services](https://dataservices.library.jhu.edu/), Johns Hopkins University. 
+The presentation materials are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/), attributable to [Data Services](https://dataservices.library.jhu.edu/), Johns Hopkins University.   
 
-See LICENSE file for additional code licensing and re-use information.   
+See LICENSE file for code licensing and re-use information.   
 
 The images, external resources, and cheatsheets linked in this repository may have other licenses and terms of use.
 
 
 ## Citation
 Please cite this material as:    
-Johns Hopkins University Data Services. [Date of workshop]. [Workshop title]. [URL] 
+Johns Hopkins University Data Services. [Date of workshop]. [Workshop title]. [GitHub URL] 
