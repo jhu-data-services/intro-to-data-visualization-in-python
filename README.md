@@ -41,4 +41,4 @@ The images, external resources, and cheatsheets linked in this repository may ha
 
 ## Citation
 Please cite this material as:    
-Johns Hopkins University Data Services. [Date of workshop]. [Workshop title]. [GitHub URL] 
+Johns Hopkins University Data Services. September 29th. Introduction to Data Visualization in Python. https://github.com/jhu-data-services/intro-to-data-visualization-in-python
