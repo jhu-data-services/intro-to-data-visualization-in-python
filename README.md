@@ -18,7 +18,7 @@ If you do not have Python already installed, please visit [https://www.python.or
 
 We will be using the following packages:
 
-`matplolib`: Primary visualization library in Python. Install using `pip install matplotlib`. 
+`matplotlib`: Primary visualization library in Python. Install using `pip install matplotlib`. 
 
 `seaborn`: Statistical data visualization in Python. Install using `pip install seaborn`.
 
