@@ -13,19 +13,22 @@ JHU Data Services, part of the Johns Hopkins University Sheridan Libraries, help
 
 This repository contains materials for one of our live webinars open to JHU students, faculty, and staff. Please [contact us](mailto:dataservices@jhu.edu) with any questions.
 
-As of March 2020, Data Services workshops are being held virtually on Zoom. [See our calendar to register for upcoming workshops.](https://dataservices.library.jhu.edu/training-workshops/calendar/)
-
-
 ## Pre-Class Instructions
-Before the class, follow the [Python Installation Instructions](https://github.com/jhu-data-services/python-installation-instructions) to download Anaconda and Jupyter Notebooks onto your computer. Use our [Jupyter Notebook Tutorial](https://github.com/jhu-data-services/python-installation-instructions/tree/main/jupyter-notebook-tutorial) to learn the basics of opening and running Jupyter Notebooks. You can [view the Jupyter Notebook Tutorial online here](https://nbviewer.org/github/jhu-data-services/python-installation-instructions/blob/main/jupyter-notebook-tutorial/JupyterNotebookTutorial.ipynb).   
+If you do not have Python already installed, please visit [https://www.python.org/](https://www.python.org/) and choose the installation type appropriate to your operating system.
 
+We will be using the following packages:
+
+`matplolib`: Primary visualization library in Python. Install using `pip install matplotlib`. 
+`seaborn`: Statistical data visualization in Python. Install using `pip install seaborn`.
+Jupyter Notebook: We will use Jupyter Notebook for running Python code and viewing our resulting plots. Install using `pip install notebook`.
+
+Use our [Jupyter Notebook Tutorial](https://github.com/jhu-data-services/python-installation-instructions/tree/main/jupyter-notebook-tutorial) to learn the basics of opening and running Jupyter Notebooks. You can [view the Jupyter Notebook Tutorial online here](https://nbviewer.org/github/jhu-data-services/python-installation-instructions/blob/main/jupyter-notebook-tutorial/JupyterNotebookTutorial.ipynb). 
 
 ## Description of Files
 - Data: This folder contains raw data files to be used during hands-on activities in the workshop
 - In-ClassScripts: This folder contains Jupyter Notebook file you will need for the workshop:
-    - DataWranglingPandas_StudentVersion.ipynb
-    - Images folder - contains images that are used in the Juptyer Notebook  
-
+    - `data-visualization-in-python-student-notebook.ipynb`: Jupyter Notebook containing interactive exercises for the workshop
+    - `saving-matplotlib-seaborn-figures.ipynb`: Instructions on how to save figures in `matplotlib` and `seaborn`
 
 ## Post-Class Survey
 If you have taken the live webinar for this class, please take this survey: [https://www.surveymonkey.com/r/python-data-vis](https://www.surveymonkey.com/r/python-data-vis)
@@ -41,4 +44,4 @@ The images, external resources, and cheatsheets linked in this repository may ha
 
 ## Citation
 Please cite this material as:    
-Johns Hopkins University Data Services. September 29th. Introduction to Data Visualization in Python. https://github.com/jhu-data-services/intro-to-data-visualization-in-python
+Johns Hopkins University Data Services. September 19th, 2024. Introduction to Data Visualization in Python. https://github.com/jhu-data-services/intro-to-data-visualization-in-python
