@@ -19,7 +19,9 @@ If you do not have Python already installed, please visit [https://www.python.or
 We will be using the following packages:
 
 `matplolib`: Primary visualization library in Python. Install using `pip install matplotlib`. 
+
 `seaborn`: Statistical data visualization in Python. Install using `pip install seaborn`.
+
 Jupyter Notebook: We will use Jupyter Notebook for running Python code and viewing our resulting plots. Install using `pip install notebook`.
 
 Use our [Jupyter Notebook Tutorial](https://github.com/jhu-data-services/python-installation-instructions/tree/main/jupyter-notebook-tutorial) to learn the basics of opening and running Jupyter Notebooks. You can [view the Jupyter Notebook Tutorial online here](https://nbviewer.org/github/jhu-data-services/python-installation-instructions/blob/main/jupyter-notebook-tutorial/JupyterNotebookTutorial.ipynb). 
